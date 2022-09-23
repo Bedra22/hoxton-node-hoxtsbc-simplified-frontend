@@ -1,0 +1,77 @@
+.App h1 {
+  text-align: center;
+  padding: 10px;
+}
+
+.App h2 {
+  text-align: center;
+  padding: 10px;
+}
+
+.sign-up-form {
+  text-align: center;
+  display: grid;
+  grid-auto-flow: row;
+  gap: 1rem;
+  width: 20%;
+  padding: 30px;
+  border: 2px black solid;
+  border-radius: 20px;
+  margin-left: 40%;
+  margin-top: 30px;
+}
+
+.sign-up-form button {
+  width: 170px;
+  margin-left: 15%;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: black;
+  color: white;
+}
+
+.sign-up-form label {
+  display: grid;
+  grid-auto-flow: row;
+  gap: 0.5rem;
+  font-size: 20px;
+}
+
+.sign-up-form input {
+  padding: 6px;
+  border-radius: 20px;
+}
+
+.log-in-form {
+  text-align: center;
+  display: grid;
+  grid-auto-flow: row;
+  gap: 1rem;
+  width: 20%;
+  padding: 30px;
+  border: 2px black solid;
+  border-radius: 20px;
+  margin-left: 40%;
+  margin-top: 30px;
+}
+
+.log-in-form button {
+  width: 170px;
+  margin-left: 15%;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: black;
+  color: white;
+}
+
+.log-in-form label {
+  display: grid;
+  grid-auto-flow: row;
+  gap: 0.5rem;
+  font-size: 20px;
+}
+
+.log-in-form input {
+  padding: 6px;
+  border-radius: 20px;
+}
